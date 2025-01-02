@@ -59,3 +59,19 @@ public class RealtimeUpdate {
     }
 
 }
+// We can access this model configuration
+//-------------------------------------------------------
+// private void startOnlineUserUpdates() {
+//         rt = new RealtimeUpdate();
+
+//         try {
+//             // Get the method reference for onlineUser 
+//             Method onlineUserMethod;
+//             onlineUserMethod = AdminMainDash.class.getDeclaredMethod("onlineUser");
+//             // Start online user updates
+//             rt.startOnlineUserUpdates(onlineUserMethod, this);
+//         } catch (NoSuchMethodException e) {
+//             e.printStackTrace();
+//         }
+//     }  
+
