@@ -93,7 +93,7 @@ Thanks to the following people for their contributions:
       <a href="https://github.com/Yohan3128">
         <img src="https://avatars.githubusercontent.com/Yohan3128" width="100px;" alt="Yohan Silva"/>
         <br />
-        <sub><b>Yohan Silva</b></sub>
+        <sub style="text-decoration: none;"><b>Yohan Silva</b></sub>
       </a>
       <br />syncx.lk
     </td>
@@ -101,7 +101,7 @@ Thanks to the following people for their contributions:
       <a href="https://github.com/Sahan-Kaushalya">
         <img src="https://avatars.githubusercontent.com/Sahan-Kaushalya" width="100px;" alt="Sahan Kaushalya"/>
         <br />
-        <sub><b>Sahan Kaushalya</b></sub>
+        <sub style="text-decoration: none;"><b>Sahan Kaushalya</b></sub>
       </a>
       <br />syncx.lk
     </td>
